@@ -5,5 +5,5 @@ package clases;
 public class Nodo {
     int informacion;
     Nodo siguiente;
-    //Probando git
+   /P/robando g it h remotoub
 }
